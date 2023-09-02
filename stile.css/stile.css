@@ -1,0 +1,50 @@
+.horarios{
+    font-family: cursive;
+    color: darkviolet;
+    font-size: 20px;
+}
+.dias{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    color: darkviolet;
+}
+.Header{
+    
+    width: 100%;
+    background-color: rgb(240, 59, 59);
+    height: 200x;
+}
+.caja{
+    display: flex;
+    flex-direction: row;
+   justify-content: space-around;
+   align-items: center;
+   align-content: end;
+
+}
+.contenedor{
+    background-color: rgb(253, 74, 9);
+    border: 1px solid black;
+    text-align: center;
+    font-weight: bold;
+}
+a{
+    text-decoration: none;
+    color: black;
+
+}
+.footer{
+  border-width: 100%;
+  background-color: blue;
+   height: 100px;
+}
+.instagram{
+    background-color: rgb(253, 74, 9);
+    border: 1px solid black;
+   
+    font-weight: bold;
+}
+.contaacto{
+    background-color: rgb(74, 103, 233);
+ 
+}
